@@ -4,7 +4,7 @@ title: Kaleidoscope Whiteboard
 date: 2017-01-19
 ---
 
-# IOHK | Kaleidoscope Whiteboard with Bernardo David
+***IOHK | Kaleidoscope Whiteboard with Bernardo David***
 
 ## Online Poker
 

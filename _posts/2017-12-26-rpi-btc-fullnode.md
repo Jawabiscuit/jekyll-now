@@ -4,8 +4,6 @@ title: RaspberryPi Bitcoin Full Node
 date: 2017-12-26
 ---
 
-# RaspberryPi Bitcoin Full Node
-
 ## Links
 
 [random string generator](https://www.random.org/strings/?num=10&len=20&digits=on&upperalpha=on&loweralpha=on&unique=on&format=html&rnd=new)

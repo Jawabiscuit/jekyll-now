@@ -4,8 +4,6 @@ title: Windows Powershell
 date: 2018-02-16
 ---
 
-# Windows Powershell
-
 ***Powershell is one of the most overlooked windows apps for ops. This approach doesn’t have any extra features but can be perfect for opening a quick commandlet window and keeping an eye on the status of a file.***
 
 
