@@ -1,3 +1,9 @@
+---
+layout: post
+title: Tech Stack
+date: 2018-02-25
+---
+
 ## Episode - Tech Stack
 
 TensorFlow, Pandas, Numpy, Scikit-Learn, Keras, TensorForce.
